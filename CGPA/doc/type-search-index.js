@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"CSC","l":"homePage"},{"p":"CSC","l":"year1"},{"p":"CSC","l":"year2"},{"p":"CSC","l":"year3"},{"p":"CSC","l":"year4"}];updateSearchResults();
